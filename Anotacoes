@@ -1,0 +1,23 @@
+Estudar mais métodos de Strings
+
+Usar o decorator @classmethod quando foi um método criado por você para uma classe, e não um que já existia,
+passar 'cls' por parâmetro
+
+Usar o decorator @property para fazer o método getter
+
+"""
+Essa é uma maneira de fazer comentários em python, docstrings,
+"""
+
+Estudar oq e um json e manipulação de arquivos
+
+Estudar dicionários e List Comprehension, jeito pythônico
+
+
+
+
+
+
+
+
+
