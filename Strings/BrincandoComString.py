@@ -29,7 +29,7 @@ print(' '.join(palavras), '\n') # O caracter que passarmos ali dentro do aspas v
 
 # Busca e validação
 posicaoColorido = texto.find('colorido')
-print(f"Posição da palvra colorido no texto: {posicaoColorido}")
+print(f"Posição da palavra colorido no texto: {posicaoColorido}")
 print(f'Quantidade de vezes que a palavra "e" aparece no texto: {palavras.count('e')}') # Usei a função na lista palavras, pois se não, ia contar quantos caracteres tinha no texto
 
 arquivo = "relatorio.pdf"
